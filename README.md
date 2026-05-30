@@ -1,5 +1,5 @@
 # Profit-Optimized Customer Retention System
-
+I am changing this a bit 
 ## Overview
 
 This project extends a traditional churn prediction task into a **profit-driven retention decision system**. Instead of only identifying customers likely to churn, the goal is to determine **which customers should be targeted with retention offers in order to maximize expected business value**.
